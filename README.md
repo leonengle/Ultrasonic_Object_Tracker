@@ -13,6 +13,6 @@ When the manual control switch is set LO, the master program enters the automati
 
 ### Tracking Mode Demo:
 <a href="videos">
-  <img src="videos/obj_tracker.png" width="300"/>
+  <img src="videos/obj_tracker.png" width="450"/>
 </a>
 
